@@ -1,5 +1,7 @@
 ### tws-movie
 
+会尽量在27号之前写完，先占个坑。o(╥﹏╥)o
+
 #### Tutorial Link
 
 - [imooc scott node and mongoDB 1](https://www.aliyue.net/563.html)
