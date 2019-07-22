@@ -13,4 +13,4 @@
 
 1. npm install
 2. node app
-3. link to localhost
+3. link to localhost:4000
