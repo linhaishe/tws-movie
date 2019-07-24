@@ -1,11 +1,11 @@
 var express = require('express');
 var router = express.Router();
 var Index = require('../app/controllers/index');
-var User = require('../app/controllers/user');
+//var User = require('../app/controllers/user');
 var Movie = require('../app/controllers/movie');
 var Comment = require('../app/controllers/comment');
 var Category = require('../app/controllers/category');
-var Admin = require('../app/controllers/admin');
+//var Admin = require('../app/controllers/admin');
 var multipart = require('connect-multiparty');
 var multipartMiddleware = multipart();
 
