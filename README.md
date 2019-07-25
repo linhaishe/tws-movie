@@ -9,6 +9,8 @@
 - [ Build A JavaScript & jQuery Movie Info App in 30 Minutes in Youtube ](https://www.youtube.com/watch?v=YsPqjYGauns&t=25s)
 - [ Beginner Express.js Tutorial | Building a Star Wars Movie App (Part 1) in Youtube ](https://www.youtube.com/watch?v=NALxjuyRXaE)
 
+![](http://ww1.sinaimg.cn/large/005NUwyggy1g5bv1xryuzg311m0i5kjq.gif)
+
 #### 项目运行
 
 1. npm install
