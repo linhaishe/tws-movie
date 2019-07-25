@@ -9,7 +9,7 @@
 - [ Build A JavaScript & jQuery Movie Info App in 30 Minutes in Youtube ](https://www.youtube.com/watch?v=YsPqjYGauns&t=25s)
 - [ Beginner Express.js Tutorial | Building a Star Wars Movie App (Part 1) in Youtube ](https://www.youtube.com/watch?v=NALxjuyRXaE)
 
-![](https://github.com/linhaishe/tws-movie/blob/master/movie.gif)
+![](https://github.com/linhaishe/tws-movie/blob/master/movie2.gif)
 
 #### 项目运行
 
